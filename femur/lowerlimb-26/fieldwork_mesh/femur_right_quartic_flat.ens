@@ -1,0 +1,13 @@
+{
+    "basis": {
+        "quad54": "quad_L4_L3", 
+        "quad55": "quad_L4_L4", 
+        "tri10": "simplex_L3_L3", 
+        "tri15": "simplex_L4_L4"
+    }, 
+    "custom_map": null, 
+    "dimensions": 2, 
+    "name": "femur_quartic_assembled_flat", 
+    "subfield_counter": 0, 
+    "subfields": {}
+}

@@ -1,0 +1,11 @@
+{
+    "basis": {
+        "quad44": "quad_L3_L3", 
+        "tri10": "simplex_L3_L3"
+    }, 
+    "custom_map": null, 
+    "dimensions": 2, 
+    "name": "patella", 
+    "subfield_counter": 0, 
+    "subfields": {}
+}
